@@ -10,6 +10,8 @@ para la detección y clasificación de enfermedades en cebolla larga a partir de
 
 dataset de imágenes.
 
+Link de Drive del Proyecto Completo: https://drive.google.com/drive/folders/1FBIKcmoI7_0FVo_eOfoUhAOrifghxm0d?usp=drive_link
+
 
 
 Se utilizan modelos clásicos:
